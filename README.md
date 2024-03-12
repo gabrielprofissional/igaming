@@ -24,11 +24,3 @@ O site foi desenvolvido utilizando as seguintes tecnologias:
 
 Não foi utilizado nenhum framework ou biblioteca para o desenvolvimento deste projeto.
 
-## Contato
-Se tiver dúvidas ou precisar de mais informações, sinta-se à vontade para entrar em contato:
-- Email : [contato@daanrox.com](mailto:contato@daanrox.com)
-- LinkedIn: [https://www.linkedin.com/in/daanrox/](Daanrox)
-
---- 
-
-Projeto desenvolvido para um cliente especialista em iGaming
