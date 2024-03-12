@@ -1,4 +1,7 @@
 <?php
+
+
+
 include 'conectarbanco.php';
 
 $conn = new mysqli('localhost', $config['db_user'], $config['db_pass'], $config['db_name']);
