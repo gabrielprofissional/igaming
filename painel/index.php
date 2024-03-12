@@ -248,7 +248,7 @@ $conn->close();
 <div class="container w-container">
 <a href="/painel" aria-current="page" class="brand w-nav-brand" aria-label="home">
 <img src="arquivos/l2.png" loading="lazy" height="28" alt="" class="image-6">
-<div class="nav-link logo"><?= $nomeUnico ?></div>
+<div class="nav-link logo">Subway Money</div>
 </a>
 
 

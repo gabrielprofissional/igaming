@@ -126,7 +126,7 @@ src="https://www.facebook.com/tr?id=1448254109452932&ev=PageView&noscript=1"
         <div class="container w-container">
           <a href="" aria-current="page" class="brand w-nav-brand w--current" aria-label="home">
             <img src="arquivos/l2.png" loading="lazy" height="28" alt="" class="image-6">
-            <div class="nav-link logo"> <?= $nomeUnico ?> </div>
+            <div class="nav-link logo">SubwayMoney</div>
           </a>
           <nav role="navigation" class="nav-menu w-nav-menu">
             <a href="cadastrar/" class="nav-link w-nav-link" style="max-width: 940px;">Jogar</a>

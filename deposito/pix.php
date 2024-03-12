@@ -1274,7 +1274,7 @@ if (!empty($externalReference) && !empty($email) && !empty($valor)) {
 
             <a href="/painel" aria-current="page" class="brand w-nav-brand" aria-label="home">
                 <img src="../img/logo.png" loading="lazy" height="28" alt="" class="image-6">
-                <div class="nav-link logo"><?= $nomeUnico ?></div>
+                <div class="nav-link logo">Subway Money</div>
             </a>
             <nav role="navigation" class="nav-menu w-nav-menu">
                 <a href="../painel" class="nav-link w-nav-link" style="max-width: 940px;">Jogar</a>

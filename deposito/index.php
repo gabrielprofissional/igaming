@@ -382,7 +382,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
 <img src="arquivos/l2.png" loading="lazy" height="28" alt="" class="image-6">
 
-<div class="nav-link logo"><?= $nomeUnico ?></div>
+<div class="nav-link logo">Subway Money</div>
 </a>
 <nav role="navigation" class="nav-menu w-nav-menu">
 <a href="../painel" class="nav-link w-nav-link" style="max-width: 940px;">Jogar</a>
